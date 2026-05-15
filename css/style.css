@@ -7,6 +7,10 @@ body{
     background-color: #2c65ab;
 }
 
+body p, .profile-icons{
+    color: #968e8e;
+}
+
 /* Inicia estilo menu */
 
 .menu{
